@@ -6,6 +6,7 @@ This MATLAB toolbox implements an information-theoretic approach to identify and
 📂 Repository Contents
 
 \functions - folders with all the fuctions of toolbox
+
 \Example_SIM - Simple simulation example to exemplify the use of the toobox
 
 
