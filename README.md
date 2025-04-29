@@ -4,12 +4,13 @@ This MATLAB toolbox implements an information-theoretic approach to identify and
 
 
 📂 Repository Contents
+
 \functions - folders with all the fuctions of toolbox
 \Example_SIM - Simple simulation example to exemplify the use of the toobox
 
 
 
 
-The methodology is described in detail in the accompanying paper. It leverages principles from information theory to evaluate combinations of variables and uses a greedy search to efficiently explore the high-order interaction space.
+The methodology is described in detail in the accompanying paper:
 
 [1] H.Pinto, Y. Antonacci, G. Mijatovic, L. Sparacino, S. Stramaglia, L. Faes, A.P Rocha, Information-Theoretic Sequential Framework to Elicit Dynamic High-Order Interactions in High Dimensional Network Processes, submitted to _Mathematics_ in April.
