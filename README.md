@@ -9,7 +9,7 @@ HOIs are essential for understanding the collective behavior of complex systems,
 ## 📂 Repository Contents
 
 - `functions/` – Core functions of the toolbox  
-- `Example_SIM/` – A simple simulation example demonstrating how to use the toolbox
+- `Example_SIM` – A simple simulation example demonstrating how to use the toolbox
 
 ---
 
