@@ -17,6 +17,4 @@ HOIs are essential for understanding the collective behavior of complex systems,
 
 The methodology implemented in this toolbox is described in the following paper:
 
-[1] H. Pinto, Y. Antonacci, G. Mijatovic, L. Sparacino, S. Stramaglia, L. Faes, A. P. Rocha.
-Information-Theoretic Sequential Framework to Elicit Dynamic High-Order Interactions in High-Dimensional Network Processes.
-Submitted to Mathematics, April 2025.
+[1] Pinto, H., Antonacci, Y., Mijatovic, G., Sparacino, L., Stramaglia, S., Faes, L., & Rocha, A. P. (2025). Information-Theoretic Sequential Framework to Elicit Dynamic High-Order Interactions in High-Dimensional Network Processes. Mathematics, 13(13), 2081. https://doi.org/10.3390/math13132081
